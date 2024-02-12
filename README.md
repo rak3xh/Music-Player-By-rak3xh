@@ -51,7 +51,7 @@ My personal portfolio <a href="https://rak3xh-portfolio.vercel.app/" target="_bl
 
 - **This music player is fully responsive in any platform.**
 - **User can play pause shuffle use the seekbar and repeat the song with thier choices.**
-- **The music listalso fetched dynamically using javascript.**
+- **The music list also fetched dynamically using javascript.**
 
 ## Getting Started
 
