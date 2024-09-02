@@ -1,6 +1,11 @@
 <h1 align="center">Music Player by rak3xh</h1>
 
-<img align="center" src="https://i.ibb.co/71p9kwm/dispaly.png" alt="dispaly" border="0">
+
+<p align="center">
+
+![Screenshot](screenshot.png)
+
+</p>
 
 ---
 
